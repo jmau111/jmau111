@@ -10,13 +10,13 @@
             <a href="https://jmau111.github.io/">My GitHub blog</a>
         </li>
         <li>
-            <a href="https://github.com/jmau111-org/macos_security">Mac lover but agnostic</a>
+            <a href="https://github.com/d3fenderz/macos_security">Mac lover but agnostic</a>
         </li>
         <li>
-            <a href="https://github.com/jmau111-org/powershell_commands">My Cheat Sheet PowerShell</a>
+            <a href="https://github.com/d3fenderz/powershell_commands">My Cheat Sheet PowerShell</a>
         </li>
         <li>
-            <a href="https://github.com/jmau111-org/blue_sheet">My Blue Cheat Sheet for defenders</a>
+            <a href="https://github.com/d3fenderz/blue_sheet">My Blue Cheat Sheet for defenders</a>
         </li>
     </ul>
 </div>
